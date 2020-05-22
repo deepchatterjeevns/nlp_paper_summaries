@@ -3,10 +3,11 @@ This repository contains a list of NLP paper summaries intended to make NLP tech
 
 Work in progress!
 
-Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-d2srv503-bQ01ZPLC4t4OoolEN9saSg) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
+Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
+
+**Slack channel:** #nlp_paper_summaries
 
 ## How to contribute
-[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/0)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/0)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/1)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/1)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/2)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/2)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/3)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/3)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/4)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/4)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/5)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/5)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/6)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/6)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/7)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/7)
 
 If you have blogged about an NLP paper or technique or find an interesting read out there, I encourage you to share with the wider community. To add your blog posts, summaries, or TL;DRs to this list just hit on the __edit__ button (✏️) in the README.md file inside the corresponding folder. You can then add your entry by modifying the readme file and submitting a PR which will be reviewed before going live.
 
@@ -42,10 +43,12 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [Language Modeling](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Language%20Modeling)
 - [Machine Learning for NLP](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Machine%20Learning%20for%20NLP)
 - [Machine Translation](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Machine%20Translation)
+- [Model Compression](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Model%20Compression)
 - [Multi-Task Learning](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Multi-Task%20Learning)
 - [NLP Applications](https://github.com/dair-ai/nlp_paper_summaries/tree/master/NLP%20Applications)
 - [Overviews, Surveys, and Highlights](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Overviews%2C%20Surveys%2C%20and%20Highlights)
 - [Phonology, Morphology and Word Segmentation](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Phonology%2C%20Morphology%20and%20Word%20Segmentation)
+- [Privacy and NLP](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Privacy%20and%20NLP)
 - [Question Answering](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Question%20Answering)
 - [Resources and Evaluation	](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Resources%20and%20Evaluation)
 - [Semantics: Lexical](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Semantics:%20Lexical)
@@ -56,3 +59,4 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [Summarization](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Summarization)
 - [Syntax: Tagging, Chunking and Parsing](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Syntax:%20Tagging%2C%20Chunking%20and%20Parsing)
 - [Theory and Formalism in NLP (Linguistic and Mathematical)](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Theory%20and%20Formalism%20in%20NLP%20(Linguistic%20and%20Mathematical))
+- [Unsupervised Representation Learning](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Unsupervised%20Representation%20Learning)
